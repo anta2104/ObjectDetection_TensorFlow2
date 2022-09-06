@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Coca pepsi</folder>
+	<filename>00012.jpg</filename>
+	<path>C:\Users\ADMIN\Downloads\Coca pepsi\00012.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>376</width>
+		<height>134</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>coca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>21</ymin>
+			<xmax>193</xmax>
+			<ymax>124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pepsi</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>187</xmin>
+			<ymin>23</ymin>
+			<xmax>245</xmax>
+			<ymax>121</ymax>
+		</bndbox>
+	</object>
+</annotation>

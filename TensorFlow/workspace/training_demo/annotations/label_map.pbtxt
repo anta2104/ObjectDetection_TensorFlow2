@@ -1,9 +1,18 @@
 item {
     id: 1
-    name: 'coca'
+    name: 'top_left'
 }
 
 item {
     id: 2
-    name: 'pepsi'
+    name: 'top_right'
+}
+item {
+    id: 3
+    name: 'bottom_left'
+}
+
+item {
+    id: 4
+    name: 'bottom_right'
 }

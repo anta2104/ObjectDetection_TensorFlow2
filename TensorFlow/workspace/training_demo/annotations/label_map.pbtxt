@@ -1,18 +1,33 @@
 item {
     id: 1
-    name: 'top_left'
+    name: 'Id'
 }
 
 item {
     id: 2
-    name: 'top_right'
+    name: 'Name'
 }
 item {
     id: 3
-    name: 'bottom_left'
+    name: 'Birth'
 }
 
 item {
     id: 4
-    name: 'bottom_rigtht'
+    name: 'Sex'
+}
+
+item {
+    id: 5
+    name: 'Nationality'
+}
+
+item {
+    id: 6
+    name: 'Origin'
+}
+
+item {
+    id: 7
+    name: 'Residence'
 }

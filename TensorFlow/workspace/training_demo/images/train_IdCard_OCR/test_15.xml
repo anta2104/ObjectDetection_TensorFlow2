@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train_IdCard_OCR</folder>
+	<filename>test_15.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\train_IdCard_OCR\test_15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Id</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>142</xmin>
+			<ymin>16</ymin>
+			<xmax>500</xmax>
+			<ymax>159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Name</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>158</ymin>
+			<xmax>311</xmax>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

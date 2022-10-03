@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train_IdCard_OCR</folder>
-	<filename>test_35.jpg</filename>
-	<path>C:\Users\ASUS\OneDrive\Máy tính\train_IdCard_OCR\test_35.jpg</path>
+	<filename>test_36.jpg</filename>
+	<path>C:\Users\ASUS\OneDrive\Máy tính\train_IdCard_OCR\test_36.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,94 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>192</xmin>
-			<ymin>112</ymin>
-			<xmax>374</xmax>
-			<ymax>145</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Name</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>141</xmin>
-			<ymin>159</ymin>
-			<xmax>322</xmax>
-			<ymax>184</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Birth</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>289</xmin>
-			<ymin>183</ymin>
-			<xmax>379</xmax>
-			<ymax>205</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Sex</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>235</xmin>
-			<ymin>202</ymin>
-			<xmax>264</xmax>
-			<ymax>224</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Nationality</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>412</xmin>
-			<ymin>201</ymin>
-			<xmax>482</xmax>
-			<ymax>224</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Origin</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<xmin>143</xmin>
-			<ymin>239</ymin>
-			<xmax>420</xmax>
-			<ymax>264</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Residence</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>341</xmin>
-			<ymin>264</ymin>
-			<xmax>475</xmax>
-			<ymax>285</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Residence</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>141</xmin>
-			<ymin>281</ymin>
-			<xmax>377</xmax>
-			<ymax>300</ymax>
+			<ymin>55</ymin>
+			<xmax>262</xmax>
+			<ymax>104</ymax>
 		</bndbox>
 	</object>
 </annotation>
